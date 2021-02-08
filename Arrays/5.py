@@ -38,6 +38,7 @@ def find_union(array1, array2):
 
     union_array = []
 
+    # geting common eles
     while i < len(array1) and j < len(array2):
         if array1[i] < array2[j]: # since arrays are sorted to move towards finding common ele
             union_array.append(array1[i])
@@ -50,10 +51,12 @@ def find_union(array1, array2):
             i+=1
             j+=1
     
+    # getting uncommon eles
     while i < len(array1):
         union_array.append(array1[i])
         i+=1
     
+    # getting uncommon eles
     while j < len(array2):
         union_array.append(array2[j])
         j+=1
