@@ -1,0 +1,64 @@
+1. DS/Algo
+
+Leetcode is the closest to the real time interviews.
+1. Generally questions will be from String, Array and Binary Search
+2. Solve questions using 2 pointer approach and sliding window approach for String and array to get well-versed with it
+3. Be confident about the solutions and their time complexity
+4. Then go with LinkedList, Trees, Graphs, Heaps, Greedy, DP, Sorting/Searching questions(do general basic questions to get a hang of it)
+
+2. Low Level Design
+
+Free Course:
+Udit Agarwal
+https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ
+
+Paid Course:
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview
+
+3. High Level Design:
+
+Free Course:
+Gaurav Sen
+https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+
+Tech Dummies Narendra L
+https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+
+Paid Course:
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+4. Java Basics and Tricky questions
+1. Java Collections
+2. Java 8 features and syntax
+3. Java Tricky questions
+https://levelup.gitconnected.com/tricky-java-interview-questions-cfc546fd03ab
+https://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html
+https://www.journaldev.com/552/java-tricky-interview-questions
+
+5. Be ready to explain the system architecture of your current project to the interviewer and then asked to redesign the same(your thought-process about how the existing system can be designed better)
+
+My Recent Interview questions in last 2 months:
+
+Valid Pallindrome - https://leetcode.com/problems/valid-palindrome/(one of the FAANG interview I gave)
+Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+Design Postgres database (or any other SQL database)
+HashMap internal working
+Low level design of IRCTC (Railway Ticket Booking system)
+https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
+https://leetcode.com/problems/find-peak-element/- Optimal Solution is O(logN) Time.
+Low Level Design - Design Whatsapp chat system and group chat
+Dot Product of Two Sparse Vectors - https://leetcode.com/problems/dot-product-of-two-sparse-vectors/ (one of the FAANG interview I gave)
+Find Pivot Index - https://leetcode.com/problems/find-pivot-index/ (one of the FAANG interview I gave)
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/lru-cache/
+https://leetcode.com/problems/add-two-numbers/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+https://leetcode.com/problems/valid-parentheses/
+https://leetcode.com/problems/reverse-linked-list/
+https://leetcode.com/problems/reverse-integer/
+https://leetcode.com/problems/valid-anagram/
+Buddy I have sent you a compilation of my prep journey
+Have a look and work hard I can say
+Get good with DS/Algo and one language and you will get through
+Thanks
