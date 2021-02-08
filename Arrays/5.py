@@ -13,7 +13,8 @@ def find_intersection(array1, array2):
     intersection_array = []
 
     while i < len(array1) and j < len(array2):
-        if array1[i] < array2[j]: # since arrays are sorted to move towards finding common ele
+        # since arrays are sorted to move towards finding common ele
+        if array1[i] < array2[j]: # increase pointer since unequal and smaller ele is found
             i+=1
         elif array2[j] < array1[i]:
             j+=1
@@ -66,9 +67,10 @@ def find_union(array1, array2):
 
 if __name__ == '__main__':
     array1 = [1, 2, 3, 4, 5, 6]
-    array2 = [1, 2, 3]
+    array2 = [1, 2, 4, 5]
 
     intersection = find_intersection(array1, array2)
     union = find_union(array1, array2)
 
-    print(union)
+    print('Union: ',union)
+    print('Intersection: ', intersection)
